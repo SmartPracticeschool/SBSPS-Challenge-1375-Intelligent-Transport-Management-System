@@ -1,0 +1,8 @@
+Admin:
+Admin as we know is a person who controls whole of the system and any changes to the system 
+will be first checked by the Admin of the system. Admin in our system plays a very crucial role by allowing 
+all the login and logouts.
+Admin has the power to delete a user based account or look at the detailed transaction queries of the user.
+Admin gives the permission whenever a new account is created to the functionalities of the system.
+Admin can update, delete and add customer profile any time, rates a car and booking in this system. 
+Besides that, admin can make a vehicle service alert and reporting function to display vehicle usage.

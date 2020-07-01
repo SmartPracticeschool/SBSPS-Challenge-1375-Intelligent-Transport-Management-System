@@ -1,0 +1,13 @@
+User :
+Customer can view and update their profile after register if they want to change some information. 
+In addition, they can book a transport after login, choose the transport that they want to book anytime 
+and they can update booking to change the data.
+A user is the person who is going to be using the system for alot of things :
+1. Creating a user Account .
+2.Regulate his/her Queries based on any transaction , servive or update.
+3.User can also view his/her transactions but cannot alter them as that power vests with the
+Admin of the system.
+4.user is going to Access the Application empowering its usage and provide feedback for improvements.
+5.User will be able get access to all the functionalities made for them like start a discussion , regulate transactions 
+, chat with the system representative for any issues.
+6.User will not be able to commit or rollback any transactioins once made , that power is with the admin.

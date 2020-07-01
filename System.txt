@@ -1,0 +1,12 @@
+System:
+There are modules for admin, staff and user. 
+This system is an online system that customer can view the page any time.
+ This system has their advantage because customer can read the information easily.
+ We have build a system which is not only easy to use/Access and also we tried to limit the complexity of the system.
+We have developed the system keeping in mind that most people who our target audience is may or may not be able to
+use smartphones but with the least knowledge of it will still be doable.
+We hope the idea brings a new light and helps various people who are struggling to even reach home during this time.
+System has the following hierarchy :
+Admin followed by staff and the on the lowest level is the user .
+Inorder to maintain data consistency and safety user will not be able to access the sensitive information about anyone.
+We believe in preserving your identity and keeping your data safe.
